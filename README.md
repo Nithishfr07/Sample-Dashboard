@@ -1,9 +1,3 @@
-<img width="1431" alt="Screenshot 2025-06-07 at 2 46 39 PM" src="https://github.com/user-attachments/assets/b81cce72-95d7-48ee-a0bb-68c948630cf2" />
-<img width="1440" alt="Screenshot 2025-06-07 at 2 46 31 PM" src="https://github.com/user-attachments/assets/3d9f2e0f-797b-475c-bdea-7c68f0b9bae3" />
-<img width="1440" alt="Screenshot 2025-06-07 at 2 46 19 PM" src="https://github.com/user-attachments/assets/658600c9-2ca2-4cae-a957-444f86352c00" />
-<img width="1440" alt="Screenshot 2025-06-07 at 2 46 11 PM" src="https://github.com/user-attachments/assets/5093d2e8-1f17-4950-9f8d-13f9b3dcadce" />
-<img width="1440" alt="Screenshot 2025-06-07 at 2 45 43 PM" src="https://github.com/user-attachments/assets/910d8775-579a-4322-aa62-859c126e2eac" />
-<img width="1440" alt="Screenshot 2025-06-07 at 2 45 14 PM" src="https://github.com/user-attachments/assets/22c6b925-65da-4aa4-9528-d244fa4e1df1" />
 # SaaS Dashboard
 
 A modern, full-featured SaaS dashboard built with React, TypeScript, and Tailwind CSS. Features comprehensive user management, analytics, and a beautiful responsive design.
@@ -56,4 +50,11 @@ npm run preview - Preview production build
 npm run lint - Run ESLint
 
 THE END
+
+<img width="1431" alt="Screenshot 2025-06-07 at 2 46 39 PM" src="https://github.com/user-attachments/assets/b81cce72-95d7-48ee-a0bb-68c948630cf2" />
+<img width="1440" alt="Screenshot 2025-06-07 at 2 46 31 PM" src="https://github.com/user-attachments/assets/3d9f2e0f-797b-475c-bdea-7c68f0b9bae3" />
+<img width="1440" alt="Screenshot 2025-06-07 at 2 46 19 PM" src="https://github.com/user-attachments/assets/658600c9-2ca2-4cae-a957-444f86352c00" />
+<img width="1440" alt="Screenshot 2025-06-07 at 2 46 11 PM" src="https://github.com/user-attachments/assets/5093d2e8-1f17-4950-9f8d-13f9b3dcadce" />
+<img width="1440" alt="Screenshot 2025-06-07 at 2 45 43 PM" src="https://github.com/user-attachments/assets/910d8775-579a-4322-aa62-859c126e2eac" />
+<img width="1440" alt="Screenshot 2025-06-07 at 2 45 14 PM" src="https://github.com/user-attachments/assets/22c6b925-65da-4aa4-9528-d244fa4e1df1" />
 
