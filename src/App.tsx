@@ -141,30 +141,32 @@ const AppRoutes = () => {
   );
 };
 
-const App = () => (
-  <QueryClientProvider client={queryClient}>
-    <UserProvider>
-      <TooltipProvider>
-        <Toaster />
-        <Sonner />
-        <HotToaster
-          position="top-right"
-          toastOptions={{
-            duration: 3000,
-            style: {
-              background: 'rgb(30 41 59)',
-              color: 'white',
-              borderRadius: '12px',
-              border: '1px solid rgb(51 65 85)',
-            },
-          }}
-        />
-        <BrowserRouter>
-          <AppRoutes />
-        </BrowserRouter>
-      </TooltipProvider>
-    </UserProvider>
-  </QueryClientProvider>
-);
+const App = () => {
+  return (
+    <BrowserRouter>
+      <QueryClientProvider client={queryClient}>
+        <UserProvider>
+          <TooltipProvider>
+            <AppRoutes />
+            <Toaster />
+            <Sonner />
+            <HotToaster
+              position="top-right"
+              toastOptions={{
+                duration: 3000,
+                style: {
+                  background: 'rgb(30 41 59)',
+                  color: 'white',
+                  borderRadius: '12px',
+                  border: '1px solid rgb(51 65 85)',
+                },
+              }}
+            />
+          </TooltipProvider>
+        </UserProvider>
+      </QueryClientProvider>
+    </BrowserRouter>
+  );
+};
 
 export default App;
