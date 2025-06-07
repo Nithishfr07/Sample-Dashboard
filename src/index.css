@@ -17,7 +17,7 @@
     --popover: 255 255 255;
     --popover-foreground: 15 23 42;
 
-    --primary: 99 102 241;
+    --primary: 59 130 246;
     --primary-foreground: 248 250 252;
 
     --secondary: 241 245 249;
@@ -34,57 +34,57 @@
 
     --border: 226 232 240;
     --input: 226 232 240;
-    --ring: 99 102 241;
+    --ring: 59 130 246;
 
     --radius: 0.75rem;
 
     --sidebar-background: 248 250 252;
     --sidebar-foreground: 51 65 85;
-    --sidebar-primary: 99 102 241;
+    --sidebar-primary: 59 130 246;
     --sidebar-primary-foreground: 248 250 252;
     --sidebar-accent: 241 245 249;
     --sidebar-accent-foreground: 51 65 85;
     --sidebar-border: 226 232 240;
-    --sidebar-ring: 99 102 241;
+    --sidebar-ring: 59 130 246;
   }
 
   .dark {
-    --background: 15 23 42;
+    --background: 2 6 23;
     --foreground: 248 250 252;
 
-    --card: 30 41 59;
+    --card: 15 23 42;
     --card-foreground: 248 250 252;
 
-    --popover: 30 41 59;
+    --popover: 15 23 42;
     --popover-foreground: 248 250 252;
 
-    --primary: 99 102 241;
+    --primary: 59 130 246;
     --primary-foreground: 248 250 252;
 
-    --secondary: 51 65 85;
+    --secondary: 30 41 59;
     --secondary-foreground: 248 250 252;
 
-    --muted: 51 65 85;
+    --muted: 30 41 59;
     --muted-foreground: 148 163 184;
 
-    --accent: 51 65 85;
+    --accent: 30 41 59;
     --accent-foreground: 248 250 252;
 
     --destructive: 239 68 68;
     --destructive-foreground: 248 250 252;
 
-    --border: 51 65 85;
-    --input: 51 65 85;
-    --ring: 99 102 241;
+    --border: 30 41 59;
+    --input: 30 41 59;
+    --ring: 59 130 246;
 
-    --sidebar-background: 15 23 42;
+    --sidebar-background: 2 6 23;
     --sidebar-foreground: 203 213 225;
-    --sidebar-primary: 99 102 241;
+    --sidebar-primary: 59 130 246;
     --sidebar-primary-foreground: 248 250 252;
-    --sidebar-accent: 30 41 59;
+    --sidebar-accent: 15 23 42;
     --sidebar-accent-foreground: 203 213 225;
-    --sidebar-border: 51 65 85;
-    --sidebar-ring: 99 102 241;
+    --sidebar-border: 30 41 59;
+    --sidebar-ring: 59 130 246;
   }
 }
 
@@ -100,7 +100,7 @@
 
 @layer components {
   .btn-primary {
-    @apply bg-primary-500 hover:bg-primary-600 text-white font-medium px-6 py-3 rounded-lg transition-all duration-200 hover:shadow-lg active:scale-[0.98];
+    @apply bg-primary hover:bg-blue-600 text-white font-medium px-6 py-3 rounded-lg transition-all duration-200 hover:shadow-lg active:scale-[0.98];
   }
   
   .btn-secondary {
