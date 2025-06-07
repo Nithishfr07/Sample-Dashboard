@@ -28,7 +28,7 @@ A modern, full-featured SaaS dashboard built with React, TypeScript, and Tailwin
 
 1. Clone the repository:
 ```bash
-git clone <your-repo-url>
+git clone [<your-repo-url>](https://github.com/Nithishfr07/Sample-Dashboard.git)
 cd saas-dashboard
 
 
