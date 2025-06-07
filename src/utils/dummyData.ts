@@ -63,11 +63,11 @@ export const getChartData = () => ({
 });
 
 export const getTeamMembers = () => [
-  { id: 1, name: 'Sarah Chen', role: 'Product Manager', avatar: '👩‍💼', status: 'online' },
-  { id: 2, name: 'David Rodriguez', role: 'Lead Developer', avatar: '👨‍💻', status: 'online' },
-  { id: 3, name: 'Emily Johnson', role: 'UI/UX Designer', avatar: '🎨', status: 'away' },
-  { id: 4, name: 'Michael Kim', role: 'Data Analyst', avatar: '📊', status: 'offline' },
-  { id: 5, name: 'Lisa Thompson', role: 'Marketing Lead', avatar: '📈', status: 'online' },
+  { id: 1, name: 'Priya Sharma', role: 'Product Manager', avatar: '👩‍💼', status: 'online' },
+  { id: 2, name: 'Arjun Patel', role: 'Lead Developer', avatar: '👨‍💻', status: 'online' },
+  { id: 3, name: 'Meera Reddy', role: 'UI/UX Designer', avatar: '🎨', status: 'away' },
+  { id: 4, name: 'Vikram Singh', role: 'Data Analyst', avatar: '📊', status: 'offline' },
+  { id: 5, name: 'Kavya Gupta', role: 'Marketing Lead', avatar: '📈', status: 'online' },
 ];
 
 export const getNotifications = () => [
