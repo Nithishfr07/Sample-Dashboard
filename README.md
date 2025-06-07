@@ -24,6 +24,10 @@ A modern, full-featured SaaS dashboard built with React, TypeScript, and Tailwin
 - **Build Tool**: Vite
 - **Icons**: Lucide React
 
+## Live Link
+ - Deployed in Netlify
+ - **Link** - 
+
 ## Installation
 
 1. Clone the repository:
