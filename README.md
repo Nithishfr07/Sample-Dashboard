@@ -26,7 +26,7 @@ A modern, full-featured SaaS dashboard built with React, TypeScript, and Tailwin
 
 ## Live Link
  - Deployed in Netlify
- - **Link** - https://mydashboardfr07.netlify.app/login
+ - **Link** - https://mydashboardfr07.netlify.app
 
 ## Installation
 
