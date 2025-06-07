@@ -15,7 +15,7 @@ A modern, full-featured SaaS dashboard built with React, TypeScript, and Tailwin
 
 ## Tech Stack
 
-- **Frontend**: React 18, TypeScript
+- **Frontend**: React JS, TypeScript
 - **Styling**: Tailwind CSS, shadcn/ui
 - **Charts**: Recharts
 - **Routing**: React Router DOM
