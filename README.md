@@ -6,7 +6,7 @@ A modern, full-featured SaaS dashboard built with React, TypeScript, and Tailwin
 
 - **Authentication System** - Secure login/logout functionality
 - **User Onboarding** - Multi-step onboarding process for new users
-- **Responsive Dashboard** - Beautiful analytics dashboard with charts and metrics
+- **Responsive Dashboard** - Viewable in both Laptop/Mobile
 - **Dark/Light Mode** - Toggle between dark and light themes
 - **Grid/List Views** - Flexible layout options for data presentation
 - **Team Management** - View and manage team members
@@ -26,7 +26,7 @@ A modern, full-featured SaaS dashboard built with React, TypeScript, and Tailwin
 
 ## Live Link
  - Deployed in Netlify
- - **Link** - 
+ - **Link** - https://mydashboardfr07.netlify.app/login
 
 ## Installation
 
